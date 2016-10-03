@@ -3,4 +3,4 @@ app:
     type:     annotation
 
 _fos:
-    resource: fos/routing.yml
+    resource: sonata/routing.yml
